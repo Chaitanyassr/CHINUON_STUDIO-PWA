@@ -7,7 +7,7 @@
         class="mb-5"
       >
       <blockquote class="blockquote">
-        &#8220;.&#8221;
+        &#8220;hyaku-nigiri.&#8221;
         <footer>
           <small>
             <em>&mdash;Chaitanyassr</em>
