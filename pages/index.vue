@@ -45,9 +45,9 @@
               GitHub
             </a>.
           </p>
-          <p>Thank you for developing with Vuetify and I look forward to bringing more exciting features in the future.</p>
+          <p>This app is build with Vuetify and Nuxt.js</p>
           <div class="text-xs-right">
-            <em><small>&mdash; John Leider</small></em>
+            <em><small>&mdash; Kumar Chaitanya</small></em>
           </div>
           <hr class="my-3">
           <a
