@@ -21,28 +21,28 @@
           <p>Chinuon-studio is a gameing studio that builds cool game.</p>
           <p>
             To downlaod the game, check out the <a
-              href=""
+              href="https://sites.google.com/view/braveknightgame/home"
               target="_blank"
             >
-              documentation
+              link
             </a>.
           </p>
           <p>
-            If you have questions, please join the official <a
-              href="https://chat.vuetifyjs.com/"
+            If you have questions, please contact the founder of the Chinuon studio. the link of his site is given below. <a
+              href="https://chaitanyassr.netlify.com/"
               target="_blank"
               title="chat"
             >
-              discord
+              Chaitanyassr
             </a>.
           </p>
           <p>
-            Find a bug? Report it on the github <a
-              href="https://github.com/vuetifyjs/vuetify/issues"
+            Chaitanyassr's github account<a
+              href="https://github.com/Chaitanyassr"
               target="_blank"
               title="contribute"
             >
-              issue board
+              GitHub
             </a>.
           </p>
           <p>Thank you for developing with Vuetify and I look forward to bringing more exciting features in the future.</p>
