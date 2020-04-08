@@ -1,4 +1,4 @@
-# my-test
+# CHINUON_STUDIO PWA
 
 > My premium Nuxt.js project
 
